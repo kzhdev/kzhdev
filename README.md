@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! My name is Kun 👋
+
+I am a full stack software developer, have been working in Finance industry for 12 years. I am specialized in low-lancey, concurrent system development in C++. Currently working in a prop trading firm located in Chicago.
 
 <!--
 **kzhdev/kzhdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
