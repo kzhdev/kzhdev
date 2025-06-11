@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! 👋
+
+I am a full-stack software developer, specialized in low-latency, concurrent system development in C++. Currently working in a proprietary trading firm located in Chicago.
 
 <!--
 **kzhdev/kzhdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
